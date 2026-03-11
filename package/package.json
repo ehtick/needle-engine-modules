@@ -10,7 +10,7 @@
     "WebGL"
   ],
   "dependencies": {
-    "com.needle.engine-exporter" : "3.10.3-beta"
+    "com.needle.engine-exporter" : "4.16.0"
   },
   "author": {
     "name": "Needle",
