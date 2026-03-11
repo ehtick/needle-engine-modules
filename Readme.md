@@ -8,7 +8,8 @@ Reference them in your Needle Engine Unity project to get started.
 ## Content
 
 - Google Drive [twitter](https://twitter.com/marcel_wiessler/status/1533529353384075265)
-- Custom Timeline Tracks: VideoTrack, CSSTrack
+- Custom Timeline Tracks: VideoTrack
+- Splines (for Unity 2022)
 
 ## How to install 💽
 
